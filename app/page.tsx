@@ -35,7 +35,7 @@ const projects: Project[] = [
     tagline: "HR & talent microservices platform",
     description:
       "Multi-service HR platform decomposed into an API gateway plus separate services for employer management, a talent/job marketplace, employee wellness, and scheduled jobs.",
-    tech: ["Node.js", "Fastify", "Prisma", "MongoDB", "Docker Compose"],
+    tech: ["Node.js", "Fastify", "Prisma", "MongoDB", "Docker"],
   },
   {
     name: "Lingkaran",
