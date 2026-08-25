@@ -38,6 +38,13 @@ const projects: Project[] = [
     tech: ["Node.js", "Fastify", "Prisma", "MongoDB", "Docker"],
   },
   {
+    name: "Dokumo",
+    tagline: "Document management & e-signature platform",
+    description:
+      "Employee document management with e-signature workflows (sign areas, templates, participants, audit log), plus division-based media folder sharing and internal chat. Integrates an internal AI API for OCR text extraction and document summarization.",
+    tech: ["Go", "PostgreSQL", "Docker"],
+  },
+  {
     name: "Lingkaran",
     tagline: "E-learning platform with government integration",
     description:
@@ -56,7 +63,6 @@ const projects: Project[] = [
     tagline: "Hydroponic IoT backend · co-founded",
     description:
       "Co-founded IoT + backend systems for 2 hydroponic farms, including 2 custom monitoring devices tracking nutrient levels, pH, and water temperature.",
-    impact: "Cut manual monitoring time 30% · ~98% on-time project delivery",
     tech: ["Go", "GORM", "MQTT", "Docker"],
   },
 ];
