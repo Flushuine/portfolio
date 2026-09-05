@@ -118,14 +118,14 @@ export default function Home() {
         </p>
         <div className="mt-8 flex flex-wrap gap-4 font-mono text-sm">
           <a
-            href="mailto:aqillatas33@gmail.com"
+            href="mailto:muhagil.dev@gmail.com"
             className="flex items-center gap-2 rounded-full bg-zinc-900 px-5 py-2.5 text-white transition-colors hover:bg-zinc-700 dark:bg-white dark:text-black dark:hover:bg-zinc-300"
           >
             <svg className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
               <rect x="2" y="4" width="20" height="16" rx="2" />
               <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7" />
             </svg>
-            aqillatas33@gmail.com
+            muhagil.dev@gmail.com
           </a>
           <a
             href="/resume.pdf"
