@@ -14,28 +14,28 @@ const projects: Project[] = [
       "Backend for a multifinance vehicle-loan business: dealer management, BPKB collateral, loan installments, insurance, KYC identity checks, credit simulation, and payment/SSO integrations.",
     impact:
       "297K+ downloads · 269K+ registered users · 49K+ MAU · 4.87★ across 1,188 reviews",
-    tech: ["Go", "PostgreSQL", "Redis", "MongoDB", "AWS S3", "Firebase FCM", "Docker"],
+    tech: ["Go", "PostgreSQL", "Redis", "MongoDB", "AWS S3", "Firebase FCM", "Docker", "Jira"],
   },
   {
     name: "LeadSync",
     tagline: "Lead management & CRM sync",
     description:
       "Source-of-truth leads system for a financing ecosystem: lead capture, credit/tenor calculators, dealer catalogs, and event management, syncing into sibling platforms via Google Sheets.",
-    tech: ["Go", "PostgreSQL", "MongoDB", "Verihubs", "Docker"],
+    tech: ["Go", "PostgreSQL", "MongoDB", "Verihubs", "Docker", "Jira"],
   },
   {
     name: "Lajoe",
     tagline: "E-commerce marketplace with bidding",
     description:
       "Marketplace backend covering products, cart, orders, and vouchers, plus a bidding/auction feature, giveaways, and courier tracking integration.",
-    tech: ["Go", "MySQL", "Redis", "MongoDB", "Docker", "Jenkins CI"],
+    tech: ["Go", "MySQL", "Redis", "MongoDB", "Docker", "Jenkins CI", "Jira"],
   },
   {
     name: "i-Solutions",
     tagline: "HR & talent microservices platform",
     description:
       "Multi-service HR platform decomposed into an API gateway plus separate services for employer management, a talent/job marketplace, employee wellness, and scheduled jobs.",
-    tech: ["Node.js", "Fastify", "Prisma", "MongoDB", "Docker"],
+    tech: ["Node.js", "Fastify", "Prisma", "MongoDB", "Docker", "Jira"],
   },
   {
     name: "Dokumo",
@@ -63,7 +63,7 @@ const projects: Project[] = [
     tagline: "Hydroponic IoT backend · co-founded",
     description:
       "Co-founded IoT + backend systems for 2 hydroponic farms, including 2 custom monitoring devices tracking nutrient levels, pH, and water temperature.",
-    tech: ["Go", "GORM", "MQTT", "Docker"],
+    tech: ["Go", "GORM", "MQTT", "Docker", "Jira"],
   },
 ];
 
