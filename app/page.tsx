@@ -87,7 +87,7 @@ const experience: { role: string; org: string; period: string; summary: string }
       "Core Go backend for a multi-role fintech/dealer platform, plus CRM, cron/reporting, and an AI-powered document assistant.",
   },
   {
-    role: "Co-Founder",
+    role: "Software Lead",
     org: "Hydrotani Tech",
     period: "Jan 2023 – Oct 2023",
     summary: "IoT + backend systems for 2 hydroponic farms, from concept to deployment.",
