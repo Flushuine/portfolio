@@ -60,9 +60,9 @@ const projects: Project[] = [
   },
   {
     name: "HydroTani",
-    tagline: "Hydroponic IoT backend · co-founded",
+    tagline: "Hydroponic IoT backend · software lead",
     description:
-      "Co-founded IoT + backend systems for 2 hydroponic farms, including 2 custom monitoring devices tracking nutrient levels, pH, and water temperature.",
+      "Led IoT + backend systems for 2 hydroponic farms, including 2 custom monitoring devices tracking nutrient levels, pH, and water temperature.",
     tech: ["Go", "GORM", "MQTT", "Docker", "Jira"],
   },
 ];
